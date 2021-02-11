@@ -27,4 +27,4 @@ cron:x:104:104::/:/bin/false
 admin::105:105::/:/usr/sbin/cli
 ```
 # Screenshot
-
+<p align="center"><img src="https://github.com/gustavorobertux/goshock/blob/main/goshock.png" width="40%"></p>
