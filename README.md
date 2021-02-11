@@ -1,5 +1,5 @@
 # goshock
-SonicWall VPN-SSL Exploit using Golang ( and other targets vulnerable to shellshock ).
+SonicWall VPN-SSL Exploit* using Golang ( * and other targets vulnerable to shellshock ).
 
 # Install
 ```
